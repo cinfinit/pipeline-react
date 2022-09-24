@@ -9,6 +9,7 @@ function App() {
         <p>
           SUPER SAMPLE
         </p>
+        <p>from new branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
