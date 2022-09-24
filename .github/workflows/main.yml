@@ -29,9 +29,8 @@ jobs:
         with:
           version: 12
           
-      - name : Intalling node_modules
-        with : 
-           cmd: install
+      - name : installing node_modules
+        run : npm i
        
       - name : creating build
         run : npm run build
