@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Branch 2 
+          SUPER SAMPLE
         </p>
+        <p>from new branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
